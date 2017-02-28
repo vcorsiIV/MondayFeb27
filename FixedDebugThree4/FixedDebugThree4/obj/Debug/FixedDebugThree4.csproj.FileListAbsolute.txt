@@ -1,0 +1,7 @@
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\FixedDebugThree4\FixedDebugThree4\bin\Debug\FixedDebugThree4.exe.config
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\FixedDebugThree4\FixedDebugThree4\bin\Debug\FixedDebugThree4.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\FixedDebugThree4\FixedDebugThree4\bin\Debug\FixedDebugThree4.pdb
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\FixedDebugThree4\FixedDebugThree4\obj\Debug\FixedDebugThree4.Properties.Resources.resources
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\FixedDebugThree4\FixedDebugThree4\obj\Debug\FixedDebugThree4.csproj.GenerateResource.Cache
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\FixedDebugThree4\FixedDebugThree4\obj\Debug\FixedDebugThree4.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\FixedDebugThree4\FixedDebugThree4\obj\Debug\FixedDebugThree4.pdb
