@@ -1,0 +1,6 @@
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugFour4\DebugFour4\bin\Debug\DebugFour4.exe.config
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugFour4\DebugFour4\bin\Debug\DebugFour4.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugFour4\DebugFour4\bin\Debug\DebugFour4.pdb
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugFour4\DebugFour4\obj\Debug\DebugFour4.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugFour4\DebugFour4\obj\Debug\DebugFour4.pdb
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugFour4\DebugFour4\obj\Debug\DebugFour4.csprojResolveAssemblyReference.cache

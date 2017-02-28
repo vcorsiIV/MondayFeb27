@@ -1,0 +1,6 @@
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\FixedDebugThree1\FixedDebugThree1\bin\Debug\FixedDebugThree1.exe.config
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\FixedDebugThree1\FixedDebugThree1\bin\Debug\FixedDebugThree1.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\FixedDebugThree1\FixedDebugThree1\bin\Debug\FixedDebugThree1.pdb
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\FixedDebugThree1\FixedDebugThree1\obj\Debug\FixedDebugThree1.csprojResolveAssemblyReference.cache
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\FixedDebugThree1\FixedDebugThree1\obj\Debug\FixedDebugThree1.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\FixedDebugThree1\FixedDebugThree1\obj\Debug\FixedDebugThree1.pdb

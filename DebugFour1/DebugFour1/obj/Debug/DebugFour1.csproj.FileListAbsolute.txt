@@ -1,0 +1,5 @@
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugFour1\DebugFour1\bin\Debug\DebugFour1.exe.config
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugFour1\DebugFour1\bin\Debug\DebugFour1.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugFour1\DebugFour1\bin\Debug\DebugFour1.pdb
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugFour1\DebugFour1\obj\Debug\DebugFour1.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugFour1\DebugFour1\obj\Debug\DebugFour1.pdb
