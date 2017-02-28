@@ -1,0 +1,6 @@
+c:\users\cleveland codes\documents\visual studio 2015\Projects\ShapeInheritanceApp\ShapeInheritanceApp\bin\Debug\ShapeInheritanceApp.exe.config
+c:\users\cleveland codes\documents\visual studio 2015\Projects\ShapeInheritanceApp\ShapeInheritanceApp\bin\Debug\ShapeInheritanceApp.exe
+c:\users\cleveland codes\documents\visual studio 2015\Projects\ShapeInheritanceApp\ShapeInheritanceApp\bin\Debug\ShapeInheritanceApp.pdb
+c:\users\cleveland codes\documents\visual studio 2015\Projects\ShapeInheritanceApp\ShapeInheritanceApp\obj\Debug\ShapeInheritanceApp.csprojResolveAssemblyReference.cache
+c:\users\cleveland codes\documents\visual studio 2015\Projects\ShapeInheritanceApp\ShapeInheritanceApp\obj\Debug\ShapeInheritanceApp.exe
+c:\users\cleveland codes\documents\visual studio 2015\Projects\ShapeInheritanceApp\ShapeInheritanceApp\obj\Debug\ShapeInheritanceApp.pdb
